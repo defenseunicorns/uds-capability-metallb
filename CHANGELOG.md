@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.6](https://github.com/defenseunicorns/uds-capability-metallb/compare/v0.0.5...v0.0.6) (2024-01-09)
+
+
+### Bug Fixes
+
+* switch to repo scope ([b5ac4f7](https://github.com/defenseunicorns/uds-capability-metallb/commit/b5ac4f7a67a8aa1ef485fbd592c9c42c6709958b))
+
+
+### Miscellaneous Chores
+
+* update IB creds ([3707e38](https://github.com/defenseunicorns/uds-capability-metallb/commit/3707e38544db5afc7f879ce233c979f7bc9ae80d))
+
 ## [0.0.5](https://github.com/defenseunicorns/uds-capability-metallb/compare/v0.0.4...v0.0.5) (2023-10-24)
 
 
